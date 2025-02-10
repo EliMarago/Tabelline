@@ -23,6 +23,7 @@ button:hover {
   font-family: monospace;
   white-space: pre;
   font-size: 30px;
+  background-color: rgba(241, 241, 241, 0.455);
 }
 .box-form input {
   margin-bottom: 10px;
